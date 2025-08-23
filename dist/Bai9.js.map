@@ -1,1 +1,1 @@
-{"version":3,"file":"Bai9.js","sourceRoot":"","sources":["../src/Bai9.ts"],"names":[],"mappings":";;AAKA,MAAM,GAAG;IAEL,YAAY,IAAW;QACnB,IAAI,CAAC,IAAI,GAAC,IAAI,CAAA;IAClB,CAAC;IACD,KAAK;QACD,OAAO,WAAW,CAAA;IACtB,CAAC;CACJ;AACD,MAAM,GAAG,GAAE,IAAI,GAAG,CAAC,KAAK,CAAC,CAAA;AACzB,OAAO,CAAC,GAAG,CAAC,GAAG,GAAG,CAAC,IAAI,WAAW,GAAG,CAAC,KAAK,EAAE,EAAE,CAAC,CAAA"}
+{"version":3,"file":"Bai9.js","sourceRoot":"","sources":["../src/Bai9.ts"],"names":[],"mappings":""}
